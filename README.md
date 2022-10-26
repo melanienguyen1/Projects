@@ -1,2 +1,2 @@
-# Projects
-Academic/Personal Projects
+# SPOTIFY ANALYSIS
+Personal Projects
