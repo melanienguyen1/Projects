@@ -1,2 +1,2 @@
 # SPOTIFY ANALYSIS
-A personal project I've decided to create to help develop better data management and visualization skills. I used R-Programming to sort, search, and collect data to display my top artists and most played songs according to my Spotify data.
+A personal project I decided to develop to expand my skills using Python and Anaconda. This project helped me practice my sorting and extracting data to develop a visualization based on the Spotify data from Kaggle. 
